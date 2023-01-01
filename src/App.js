@@ -1,7 +1,7 @@
 import React from 'react'
 import './app.css'
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from './containers'
-import { Article, Brand, CTA, Feature, Navbar } from './components'
+import { Brand, CTA, Navbar } from './components'
 
 //React functional component
 

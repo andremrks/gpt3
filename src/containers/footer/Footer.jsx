@@ -41,7 +41,7 @@ const Footer = () => {
       </div>
 
       <div className="gpt3__footer-copyright">
-        <p>Copyright © 2023 <a href="https://andremrks.github.io/social-links/" target="_blank">André Marques</a> All Right Reserved</p>
+        <p>Copyright © 2023 <a href="https://andremrks.github.io/social-links/" target="_blank" rel='noreferrer'>André Marques</a> All Right Reserved</p>
       </div>
     </div>
   )
