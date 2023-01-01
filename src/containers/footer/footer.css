@@ -44,7 +44,6 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-direction: row;
     flex-wrap: wrap;
 
     width: 100%;
@@ -127,7 +126,7 @@
     }
 
     .gpt3__footer-links div {
-        margin: 0;
+        margin: 1rem 0;
     }
 
     .gpt3__footer-btn p {
